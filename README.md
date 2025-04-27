@@ -2,8 +2,8 @@
 <H3>212223040002</H3>
 <H3>27/04/2025</H3>
 <H3>Experiment No. 2 </H3>
-## Implementation of Perceptron for Binary Classification
-# AIM:
+<H2> Implementation of Perceptron for Binary Classification</H2>
+<H2> AIM:</H2>
 To implement a perceptron for classification using Python<BR>
 
 # EQUIPMENTS REQUIRED:
