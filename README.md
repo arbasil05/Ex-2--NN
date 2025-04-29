@@ -1,6 +1,5 @@
 <H3>ABDUR RAHMAN BASIL A H</H3>
 <H3>212223040002</H3>
-<H3>27/04/2025</H3>
 <H3>Experiment No. 2 </H3>
 <H1> Implementation of Perceptron for Binary Classification</H1>
 <H1> AIM:</H1>
